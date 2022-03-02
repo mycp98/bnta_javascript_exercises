@@ -1,4 +1,4 @@
-//To run on terminal:   node.filename.js
+//To run on terminal:   node filename.js
 
 /**
  * In these tasks you will need to manipulate the array below in order to answer the questions. Some answers will require you to store the result in a variable, others will need you to inspect the whole array.
@@ -27,7 +27,7 @@ stations.push("London Kings Cross");
  */
 //To remove first index from array:
 stations.shift();
-console.log(stations);
+//console.log(stations);
 
 
 /**
